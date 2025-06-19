@@ -15,5 +15,8 @@ June 18th-
 I spent a lot of time polishing and finishing up the final design for the battle bot. I was thinking about adding bare 8 gauge copper wire to make it easy to change the arc length but I decided that stripping thinner wire and tinning it would be a much cheaper option.
 ![CleanShot 2025-06-18 at 18 31 20](https://github.com/user-attachments/assets/ee4039d5-b43d-4c38-99ba-9a323fc0d5de)![CleanShot 2025-06-18 at 18 33 31](https://github.com/user-attachments/assets/09480184-ef49-4c8d-9037-c19027891ab4)
 
+After careful consideration, I felt that the original horizontal spinner weapon would wear quickly and do little damage, so I designed a couple more weapons.
+![CleanShot 2025-06-18 at 18 55 50](https://github.com/user-attachments/assets/e0a6138e-08f3-4d7b-8594-115dcdf9824d)
+I ended up going with the one on the battlebot due to a good balance between many spikes and being sturdy.
 
-Time Spent: ~5 Hours
+Time Spent: ~6 Hours
