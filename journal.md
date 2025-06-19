@@ -20,5 +20,6 @@ I spent a lot of time polishing and finishing up the final design for the battle
 After careful consideration, I felt that the original horizontal spinner weapon would wear quickly and do little damage, so I designed a couple more weapons.
 ![CleanShot 2025-06-18 at 18 55 50](https://github.com/user-attachments/assets/e0a6138e-08f3-4d7b-8594-115dcdf9824d)
 I ended up going with the one on the battlebot due to a good balance between many spikes and being sturdy.
+I also finished up uploading, the BOMs, and the README.
 
 Time Spent: ~6 Hours
