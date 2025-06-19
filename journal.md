@@ -22,4 +22,8 @@ After careful consideration, I felt that the original horizontal spinner weapon 
 I ended up going with the one on the battlebot due to a good balance between many spikes and being sturdy.
 I also finished up uploading, the BOMs, and the README.
 
+After some constructive criticism from peers, I decided to move the wheels inward so they would be more protected.
+![CleanShot 2025-06-18 at 21 02 55](https://github.com/user-attachments/assets/574d3df3-d768-4c26-9aa1-5335f85ce530)
+I also decided to swap PETG for PLA due to superior impact resistance although I'd have to sacrifice some heat resistance as well.
+
 Time Spent: ~6 Hours
