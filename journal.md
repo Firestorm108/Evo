@@ -9,7 +9,7 @@ It's a battle bot. Made of PLA, and with a horizontal spinner. And, it's got a p
 <h2>Main Features</h2>
 Let's start with the body. It's a thick walled, PLA body. Lightweight yet strong. The wheels? Also made of PLA, but coated to increase grip strength. Screws to hold it together and for easy disassembly (because we all know how much a battle bot needs to be disassembled). 
 
-Now, the electronics. Instead of going with the common N20 motors, I decided to go with stronger, larger motors to move the relatively large weight of the bot. I went with a 2200KV A2212 Brushless Motor due to it's low cost as well as good specs. It'll work great as the "offhand". And finally, the main deal. I went with a 15-20KV transformer module to be able to make large arcs, or plasma fire. 
+Now, the electronics. Instead of going with the common N20 motors, I decided to go with stronger, larger motors to move the relatively large weight of the bot. I went with a 2200KV A2212 Brushless Motor due to it's low cost as well as good specs. It'll work great as the "offhand". And finally, the main deal. I went with a 15-20KV AC transformer module to be able to make large arcs, or plasma fire. 
 
 <h2>June 16th</h2>
 I thought of a general guiding design today and worked on the parts list. Overall, just generally diagramming and creating a good view over as well as picking parts.
