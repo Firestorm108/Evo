@@ -1,7 +1,7 @@
 Total Time: 12 Hours
 
 June 16th-
-Today I thought about the parts and design of the battlebot and created a BOM.
+Today I thought about the parts and design of the battlebot and created a BOM. I decided that I wanted to make a horizontal spinner battlebot, but with a twist. I thought it woild be super cool to add plasma arcs and so I did some research. Even cooler was that at a certain point of power, they become a sort of plasma flame that would be insanely effective. Thus, I got started on diagramming.
 
 Time Spent: ~1 Hour
 
