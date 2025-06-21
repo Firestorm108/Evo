@@ -50,6 +50,9 @@ After some constructive criticism from peers, I decided to move the wheels inwar
 I also decided to swap PETG for PLA due to superior impact resistance although I'd have to sacrifice some heat resistance as well.
 I then changed the weapon a bit to be stronger yet still fulfill its purpose of guarding the plasma arcs by adding heavy hitters as well as making it thicker.
 
+A project I was working on previously was requested to have the wiring diagram updated with the images of the complicated parts to make it clearer, so I quickly decided to do the same for this project as well. ![image](https://github.com/user-attachments/assets/5b7879b0-f4c6-4e0e-a0ba-518b791f2e2b)
+
+
 ![CleanShot 2025-06-18 at 21 14 24](https://github.com/user-attachments/assets/acc2ad7a-5891-42f9-bffc-6b50132fe27a)
 
 Time Spent: ~6 Hours
