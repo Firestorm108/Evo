@@ -51,6 +51,8 @@ I then changed the weapon a bit to be stronger yet still fulfill its purpose of 
 A project I was working on previously was requested to have the wiring diagram updated with the images of the complicated parts to make it clearer, so I quickly decided to do the same for this project as well. This will definitely be better to look at the exact pins and where to put them. ![image](https://github.com/user-attachments/assets/5b7879b0-f4c6-4e0e-a0ba-518b791f2e2b)
 
 This is the final build. Overall, I'm really proud of all the work I put in as my first battlebot and I hope to surprise family and friends with my plasma fire!
+
+
 ![CleanShot 2025-06-18 at 21 14 24](https://github.com/user-attachments/assets/acc2ad7a-5891-42f9-bffc-6b50132fe27a)
 
 Time Spent: ~6 Hours
