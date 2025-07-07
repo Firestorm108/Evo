@@ -20,5 +20,5 @@ A battle bot that uses plasma arcs to defeat its foes! It also has a easily repl
 | Relay Module                              | $3.00  | [AliExpress](https://www.aliexpress.us/item/3256804979950556.html)                   |
 | Power Distribution Hub                    | $4.00  | [AliExpress](https://www.aliexpress.us/item/3256802450657248.html)                   |
 
-**Total Price: $164.30**
+**Total Price: $148.04**
 
