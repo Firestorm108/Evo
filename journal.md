@@ -2,6 +2,7 @@ Total Time: 12 Hours
 
 <h2>Summary</h2>
 A horizontal spinner battle bot that also happens to use AC plasma flames as its special weapon. It has high torque motors and a small body made of PLA.
+
 ![image](https://github.com/user-attachments/assets/9ab81ab9-d3c6-40a0-ba9d-09f0a6d16b83)
 
 
