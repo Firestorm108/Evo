@@ -7,5 +7,18 @@ A battle bot that uses plasma arcs to defeat its foes! It also has a easily repl
 
 
 
+| Item                                      | Price  | Link                                                                                   |
+|-------------------------------------------|--------|----------------------------------------------------------------------------------------|
+| FlySky FS-i6X Transmitter/Receiver        | $60.00 | [Amazon](https://www.amazon.com/FLYSKY-Transmitter-Controller-Receiver-Upgrade/dp/B07Z8VCB45/) |
+| PLA                                       | $0.00  | Will have already owned PETG by then                                                  |
+| JGA25-370 Geared Motors (2) 12V           | $14.41 | [AliExpress](https://www.aliexpress.us/item/2251832801627453.html)                   |
+| A2212 Brushless Motor 2200KV + ESC        | $10.00 | [AliExpress](https://www.aliexpress.us/item/3256807827567042.html)                   |
+| Brushed ESCs                              | $15.00 | [Amazon](https://www.amazon.com/Brushed-Motor-Forward-Reverse-Controller/dp/B0BYVPWR6S/) |
+| 3S 2200mAh LiPo Battery                   | $17.63 | [Amazon](https://www.amazon.com/Zeee-Vehicles-Airplane-Quadcopter-Helicopter/dp/B0D59B817L/r) |
+| LiPo Charger                              | $16.00 | [Amazon](https://www.amazon.com/SUPULSE-Battery-Charger-7-4-11-1V-B3V2/dp/B099K8XFG6/) |
+| AC HV Transformer                         | $8.00  | [AliExpress](https://www.aliexpress.us/item/3256805880688004.html)                   |
+| Relay Module                              | $3.00  | [AliExpress](https://www.aliexpress.us/item/3256804979950556.html)                   |
+| Power Distribution Hub                    | $4.00  | [AliExpress](https://www.aliexpress.us/item/3256802450657248.html)                   |
 
-![CleanShot 2025-06-18 at 18 43 50](https://github.com/user-attachments/assets/9aa320ae-7653-4afe-9592-bb7de2799051)
+**Total Price: $164.30**
+
