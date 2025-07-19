@@ -9,7 +9,7 @@ A battle bot that uses plasma arcs to defeat its foes! It also has a easily repl
 
 | Item                                      | Price  | Link                                                                                   |
 |-------------------------------------------|--------|----------------------------------------------------------------------------------------|
-| FlySky FS-i6X Transmitter/Receiver        | $60.00 | [Amazon](https://www.amazon.com/FLYSKY-Transmitter-Controller-Receiver-Upgrade/dp/B07Z8VCB45/) |
+| FlySky FS-i6X Transmitter/Receiver        | $0.00 | Already Owned |
 | PLA                                       | $0.00  | Already Owned                                                                        |
 | JGA25-370 Geared Motors (2) 12V           | $14.41 | [AliExpress](https://www.aliexpress.us/item/2251832801627453.html)                   |
 | A2212 Brushless Motor 2200KV + ESC        | $10.00 | [AliExpress](https://www.aliexpress.us/item/3256807827567042.html)                   |
